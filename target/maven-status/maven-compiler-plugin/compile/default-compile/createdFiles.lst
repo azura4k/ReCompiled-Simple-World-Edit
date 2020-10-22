@@ -1,0 +1,12 @@
+aldrigos\mc\worldedit\commands\SetCmd.class
+aldrigos\mc\worldedit\commands\ShiftCmd.class
+aldrigos\mc\worldedit\WorldEditPlugin.class
+aldrigos\mc\worldedit\commands\WandCmd.class
+aldrigos\mc\worldedit\Cuboid.class
+aldrigos\mc\worldedit\Messages.class
+aldrigos\mc\worldedit\listeners\SelectionListener.class
+aldrigos\mc\worldedit\listeners\SelectionListener$1.class
+aldrigos\mc\worldedit\WorldEdit.class
+aldrigos\mc\worldedit\listeners\PlayerWorldChangeListener.class
+aldrigos\mc\worldedit\WordEditApiImpl.class
+aldrigos\mc\worldedit\commands\ExpandCmd.class
